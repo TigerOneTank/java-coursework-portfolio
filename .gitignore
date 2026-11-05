@@ -1,0 +1,14 @@
+**/out/
+**/target/
+**/.idea/
+**/*.iml
+**/*.class
+**/*.jar
+**/*.db
+**/*.db-*
+**/*.sqlite*
+**/__pycache__/
+.build/
+lib/
+**/data/images/
+.DS_Store

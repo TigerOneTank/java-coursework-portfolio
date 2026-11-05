@@ -1,0 +1,110 @@
+{
+  "vehicle-rental": {
+    "path": "projects/vehicle-rental",
+    "main": "VehicleRentalApp.App",
+    "javafx": false,
+    "forms": false
+  },
+  "contact-manager": {
+    "path": "projects/contact-manager",
+    "main": "com.contactmanagement.Main",
+    "javafx": false,
+    "forms": false
+  },
+  "library-manager": {
+    "path": "projects/library-manager",
+    "main": "com.library.Main",
+    "javafx": false,
+    "forms": false
+  },
+  "mini-mart": {
+    "path": "projects/mini-mart",
+    "main": "SignInScreen",
+    "javafx": false,
+    "forms": false
+  },
+  "student-mvc": {
+    "path": "projects/student-mvc",
+    "main": "com.learnmvc.Main",
+    "javafx": false,
+    "forms": false
+  },
+  "student-manager": {
+    "path": "projects/student-manager",
+    "main": "Main",
+    "javafx": false,
+    "forms": false
+  },
+  "course-pal": {
+    "path": "projects/course-pal",
+    "main": "Main",
+    "javafx": false,
+    "forms": false
+  },
+  "todo-list": {
+    "path": "projects/todo-list",
+    "main": "Main",
+    "javafx": false,
+    "forms": false
+  },
+  "contact-app": {
+    "path": "projects/contact-app",
+    "main": "contactApp.Main",
+    "javafx": false,
+    "forms": false
+  },
+  "collections": {
+    "path": "exercises/collections",
+    "main": "Week4.BusRoute",
+    "javafx": false,
+    "forms": false
+  },
+  "jdbc-basics": {
+    "path": "exercises/jdbc-basics",
+    "main": "CreateTable",
+    "javafx": false,
+    "forms": false
+  },
+  "swing-components": {
+    "path": "exercises/swing-components",
+    "main": "Main",
+    "javafx": false,
+    "forms": false
+  },
+  "course-registration": {
+    "path": "exercises/course-registration",
+    "main": "CCKHSystemStarter",
+    "javafx": false,
+    "forms": false
+  },
+  "swing-labs": {
+    "path": "exercises/swing-labs",
+    "main": "Main",
+    "javafx": false,
+    "forms": true
+  },
+  "javafx-starter": {
+    "path": "exercises/javafx-starter",
+    "main": "com.example.javaintermediatelevel2.HelloApplication",
+    "javafx": true,
+    "forms": false
+  },
+  "hello-java": {
+    "path": "exercises/hello-java",
+    "main": "Main",
+    "javafx": false,
+    "forms": false
+  },
+  "vehicle-rental-original": {
+    "path": "versions/vehicle-rental-original",
+    "main": "VehicleRentalApp.App",
+    "javafx": false,
+    "forms": false
+  },
+  "swing-navigation": {
+    "path": "references/swing-navigation",
+    "main": "Main",
+    "javafx": false,
+    "forms": true
+  }
+}
